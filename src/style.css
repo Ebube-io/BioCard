@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(206, 197, 172);
+}
+header{
+    background-color: beige;
+}
+.menu{
+    display: grid;grid-auto-flow: column;
+}
+nav{
+    display:grid;grid-auto-flow: column;text-align: justify;
+}
+.container{
+    display:grid;grid-auto-flow:column;background-color:beige;padding:100px;
+}
+img{
+    width: 500px; border-radius: 50px; margin-left: 20px;
+}
+section{
+    padding-bottom: 40px;
+}
+#about{
+    text-align: center; color: rgb(163, 129, 129);
+}
+p{
+    font-size: x-large;
+}
+footer{
+    text-align: center;
+}
+#contact{
+    color: rgb(163, 129, 129);
+}
